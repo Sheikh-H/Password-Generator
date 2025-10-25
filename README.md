@@ -113,7 +113,7 @@ When running the script, you can choose from:
 <h2>📸 Optional Preview</h2>
 
 <p align="center">
-  <img src="assets/preview.png" alt="Application Preview" width="600">
+  <img src="preview.png" alt="Application Preview" width="600">
 </p>
 
 ---
