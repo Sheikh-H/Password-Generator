@@ -113,7 +113,7 @@ When running the script, you can choose from:
 <h2>📸 Optional Preview</h2>
 
 <p align="center">
-  <img src="preview.png" alt="Application Preview" width="600">
+  <img src="./preview.png" alt="Application Preview" width="600">
 </p>
 
 ---
@@ -121,7 +121,7 @@ When running the script, you can choose from:
 <h2>📄 License</h2>
 
 <p>
-  This project is licensed under the <b>MIT License</b> — see the <a href="LICENSE">LICENSE</a> file for details.
+  This project is licensed under the <b>MIT License</b> — see the <a href="./LICENCE">LICENCE</a> file for details.
 </p>
 
 <pre>
