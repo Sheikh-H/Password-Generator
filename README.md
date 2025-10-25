@@ -125,7 +125,7 @@ When running the script, you can choose from:
 </p>
 
 <pre>
-MIT License
+MIT Licence
 
 Copyright (c) 2025 Sheikh
 
@@ -153,7 +153,7 @@ SOFTWARE.
 <h2 align="center">💬 Author</h2>
 
 <p align="center">
-  Developed by <b>Sheikh</b> — Learning to Code 🧠  
+  Developed by <b>Sheikh Hussain</b> — Learning to Code 🧠  
   <br>
   If you found this helpful, please consider ⭐ starring the repository!
 </p>
