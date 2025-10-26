@@ -39,9 +39,9 @@ Password-Generator/
 <h2>⚙️ Installation & Setup</h2>
 
 <ol>
-  <li>Ensure you have <b>Python 3.x</b> installed on your system.</li>
+  <li>Ensure you have <b>Python 3.13</b> installed on your system.</li>
   <li>Download or clone this repository:
-    <pre><code>git clone https://github.com/your-username/Password-Generator.git</code></pre>
+    <pre><code>git clone https://github.com/Sheikh-H/Password-Generator.git</code></pre>
   </li>
   <li>Navigate into the project folder:
     <pre><code>cd Password-Generator</code></pre>
