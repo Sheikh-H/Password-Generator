@@ -66,7 +66,7 @@ Password-Generator/
       <li>The app or website name you enter</li>
     </ul>
   </li>
-  <li>All information (app name, username, notes, password) is securely stored in a local <code>passwords.json</code> file.</li>
+  <li>All information (app name, username, notes, password) is stored in a local <code>passwords.json</code> file.</li>
 </ul>
 
 ---
