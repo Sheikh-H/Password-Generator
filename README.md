@@ -31,8 +31,7 @@ Password-Generator/
 ├── passwords.json                 # Auto-created data file for storing credentials
 ├── README.md                      # Documentation
 ├── LICENSE                        # MIT License
-└── assets/
-    └── preview.png                # (Optional) Screenshot or demo image
+├── Preview.png                    # (Optional) Screenshot or demo image
 </pre>
 
 ---
