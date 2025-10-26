@@ -117,16 +117,16 @@ When running the script, you can choose from:
 
 ---
 
-<h2>📄 License</h2>
+<h2>📄 Licence</h2>
 
 <p>
-  This project is licensed under the <b>MIT License</b> — see the <a href="./LICENCE">LICENCE</a> file for details.
+  This project is licenced under the <b>MIT Licence</b> — see the <a href="./LICENCE">LICENCE</a> file for details.
 </p>
 
 <pre>
 MIT Licence
 
-Copyright (c) 2025 Sheikh
+Copyright (c) 2025 Sheikh-H
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
